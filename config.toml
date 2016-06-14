@@ -1,0 +1,10 @@
+baseurl = "http://gucj.github.io/"
+languageCode = "en-us"
+title="灰太狼的测试不归路"
+author = "灰太狼"
+theme = "aglaus"
+canonifyurls = true
+paginate = 4
+[params]
+  disqusShortname = "gucj" # optional
+  toc = true # optional, When set to TRUE this parameter, table of contents appears in all articles.
