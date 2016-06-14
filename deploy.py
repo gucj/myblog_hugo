@@ -10,10 +10,10 @@ import subprocess
 __author__ = 'coderzh'
 
 GIT_REPO = [
-    ['origin',  'gh-pages', 'git@github.com:gucj/gucj.github.io.git'],
+    ['origin',  'master', 'git@github.com:gucj/gucj.github.io.git'],
 ]
 
-DEPLOY_DIR = 'gh-pages'
+DEPLOY_DIR = 'master'
 
 
 class ChDir:
